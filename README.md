@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akashpandya
-- 👀 I’m interested in ...Advancing my knowledge in coding and getting employed as a front end developer
-- 🌱 I’m currently learning ...React JS
+- 👀 I’m interested in ...Finding a stable job as a Frontend Developer
+- 🌱 I’m currently learning ...Node and Express 
 
 - 📫 How to reach me ...akash1pandya@gmail.com
 
